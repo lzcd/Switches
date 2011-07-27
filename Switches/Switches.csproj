@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SwitchPath.cs" />
     <Compile Include="SwitchSet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
